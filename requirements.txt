@@ -1,5 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 httpx
 fake-useragent
 capsolver
+2captcha-python
